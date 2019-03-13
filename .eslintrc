@@ -1,0 +1,16 @@
+{
+  "env": {
+    "browser": true
+  },
+  "plugins": [
+    "react-native"
+  ],
+  "rules": {
+    "react/prop-types": "off"
+  },
+  "settings": {
+    "import/core-modules": [
+      "react-native-paper"
+    ]
+  }
+}
